@@ -109,3 +109,28 @@ Participants were asked to:
 ## Repository Notice
 
 This repository is a portfolio summary of an academic usability testing coursework project. Raw participant notes, scripts, recordings, consent materials, and private university documents are not included.
+
+## Screenshots
+
+### Overall Task Completion Rate
+
+![Overall Task Completion Rate](screenshots/task-completion-rate.png)
+
+### Total Mistakes by Task
+
+![Total Mistakes by Task](screenshots/total-mistakes-by-task.png)
+
+### Task 1 Completion Rate
+
+![Task 2e Completion Rate](screenshots/task1-completion-rate.png)
+
+
+
+
+### Task 2e Completion Rate
+
+![Task 2e Completion Rate](screenshots/task2e-completion-rate.png)
+
+### Frequency of Qualitative Codes
+
+![Frequency of Qualitative Codes](screenshots/qualitative-codes-frequency.png)
